@@ -12,8 +12,8 @@ A visual mind map that guides you in selecting the appropriate statistical test 
 
 **Preview:**
 
-![How to choose the right statistical test](How%20to%20choose%20the%20right%20statistical%20test.png)
-
+![How to choose the right statistical test][(How%20to%20choose%20the%20right%20statistical%20test.png)
+](https://github.com/alshehries/Knowledge/blob/80006c5319806c90da483e2bd24009fae8f31708/How%20to%20choose%20the%20right%20statistical%20test.pdf)
 ## Purpose
 
 This repository serves as a **knowledge base** to:
